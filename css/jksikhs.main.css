@@ -14,6 +14,8 @@ p{
 .sub-header{
     color:#FF3B45
 }
+
+/*
 nav{
     background:#fff;
     letter-spacing:1px;
@@ -56,6 +58,8 @@ nav .navbar-brand .cons{
 .nav-link:hover::after{
     width:100%
 }
+*/
+
 .activeNav{
     padding:.5rem 3rem;
     transition:.3s;
