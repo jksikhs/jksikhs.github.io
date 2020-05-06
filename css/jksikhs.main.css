@@ -166,7 +166,7 @@ footer .fa-stack-2x{
         padding:.5rem 1.2rem
     }
     .jumbotron{
-        height:70vh;
+        height:90vh;
         background-image:url("../images/layout/banner1_mob.jpg");
         background-size: cover;
         background-repeat:no-repeat;
