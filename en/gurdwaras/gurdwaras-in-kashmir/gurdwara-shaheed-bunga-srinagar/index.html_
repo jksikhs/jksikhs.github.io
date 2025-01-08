@@ -1,0 +1,681 @@
+<!DOCTYPE html>
+<html lang="en" class=" js flexbox canvas canvastext webgl touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths"><head>
+        
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-4EEYJSBD2Q&amp;l=dataLayer&amp;cx=c&amp;gtm=457e4bk0za200"></script><script async src="https://www.googletagmanager.com/gtag/js?id=UA-165272044-2"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'UA-165272044-2');
+        </script>
+
+		<!-- Title Tag  -->
+		<title>Gurdwara Shaheed Bunga Sahib (Srinagar)</title>
+
+		<!-- Favicon -->
+		<!-- <link rel="icon" type="image/favicon.png" href="{% static 'jks/img/favicon.png"> -->
+
+
+		<!-- Web Font -->
+		<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+
+		<!-- Bizwheel Plugins CSS -->
+		<link rel="stylesheet" href="../../../../static/jks/css/animate.min.css">
+		<link rel="stylesheet" href="../../../../static/jks/css/bootstrap.min.css">
+		<link rel="stylesheet" href="../../../../static/jks/css/cubeportfolio.min.css">
+		<link rel="stylesheet" href="../../../../static/jks/css/font-awesome.css">
+		<link rel="stylesheet" href="../../../../static/jks/css/jquery.fancybox.min.css">
+		<link rel="stylesheet" href="../../../../static/jks/css/magnific-popup.min.css">
+		<link rel="stylesheet" href="../../../../static/jks/css/owl-carousel.min.css">
+		<link rel="stylesheet" href="../../../../static/jks/css/slicknav.min.css">
+
+		<!-- Bizwheel Stylesheet -->
+		<link rel="stylesheet" href="../../../../static/jks/css/reset.css">
+        <link rel="stylesheet" href="../../../../static/jks/style.css">
+        <link rel="stylesheet" href="../../../../static/jks/css/responsive.css">
+        <link rel="stylesheet" href="../../../../static/jks/jks_custom.css">
+
+        
+
+
+		<!-- Bizwheel Colors -->
+        <!-- <link rel="stylesheet" href="../../../../static/jks/css/skins/skin-1.css"> -->
+        <!--<link rel="stylesheet" href="../../../../static/jks/css/skins/skin-2.css">-->
+		<link rel="stylesheet" href="../../../../static/jks/css/skins/skin-3.css">
+		<!--<link rel="stylesheet" href="../../../../static/jks/css/skins/skin-4.css">-->
+
+		<!--[if lt IE 9]>
+			<script src="{% static 'jks/https://oss.maxcdn.com/libs/html5shiv/3.7.2/html5shiv.min.js"></script>
+			<script src="{% static 'jks/https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+		<![endif]-->
+
+   		<!-- w3 -->
+    	<link href="../../../../static/css/w3.jksikhs.css" rel="stylesheet">
+
+    	<!-- social shares -->
+    	<link rel="stylesheet" type="text/css" href="../../../../static/css/jquery.floating-social-share.min.css" />
+
+	</head>
+	<body id="bg">
+        
+
+		<!-- Boxed Layout -->
+		<div id="page" class="site boxed-layout">
+
+		<!-- Preloader -->
+		
+		<!--/ End Preloader -->
+
+		<!-- Header -->
+		<header class="header">
+
+			<!-- Middle Header -->
+			<div class="middle-header">
+				<div class="container">
+					<div class="row">
+						<div class="col-12">
+							<div class="middle-inner">
+								<div class="row">
+									<div class="col-lg-2 col-md-3 col-12">
+										<!-- Logo -->
+										<div class="logo">
+											<!-- Image Logo -->
+											<div class="img-logo">
+												<a href="/">
+													<img class="img-responsive" src="../../../../static/jks/img/logo1.png" alt="JKSikhs.com">
+												</a>
+											</div>
+										</div>
+										<div class="mobile-nav"><div class="slicknav_menu"><a href="#" aria-haspopup="true" role="button" tabindex="0" class="slicknav_btn slicknav_collapsed"><span class="slicknav_menutxt"></span><span class="slicknav_icon slicknav_no-text"><span class="slicknav_icon-bar"></span><span class="slicknav_icon-bar"></span><span class="slicknav_icon-bar"></span></span></a><ul class="slicknav_nav slicknav_hidden" aria-hidden="true" role="menu" style="display: none;">
+																
+                                                                    
+
+
+    <li class="nav-item ">
+        <a class="nav-link" href="/en/komal-library/" role="menuitem" tabindex="-1">
+            Komal Library
+        </a>
+        
+    </li>
+
+    <li class="nav-item ">
+        <a class="nav-link" href="/en/jammu-kashmir-sikh-history/" role="menuitem" tabindex="-1">
+            History and Culture
+        </a>
+        
+    </li>
+
+    <li class="nav-item dropdown icon-dropdown slicknav_collapsed slicknav_parent"><a href="#" role="menuitem" aria-haspopup="true" tabindex="-1" class="slicknav_item slicknav_row">
+        <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="/en/gurdwaras/" tabindex="-1">
+            Gurdwaras
+        </a>
+        
+            <span class="slicknav_arrow">►</span></a><ul class="sub-menu slicknav_hidden" aria-labelledby="dropdown-gurdwaras" role="menu" aria-hidden="true" style="display: none;">
+                
+    
+        <li>
+            <a href="/en/gurdwaras/gurdwaras-in-kashmir/" role="menuitem" tabindex="-1">
+                Gurdwaras in Kashmir
+            </a>
+        </li>
+    
+        <li>
+            <a href="/en/gurdwaras/gurdwaras-in-jammu/" role="menuitem" tabindex="-1">
+                Gurdwaras in Jammu
+            </a>
+        </li>
+    
+
+
+            </ul>
+        
+    </li>
+
+    <li class="nav-item ">
+        <a class="nav-link" href="/en/editorials/" role="menuitem" tabindex="-1">
+            Editorials
+        </a>
+        
+    </li>
+
+    <li class="nav-item ">
+        <a class="nav-link" href="/en/article-submissions/" role="menuitem" tabindex="-1">
+            Content Submission
+        </a>
+        
+    </li>
+
+<li class="nav-item">
+  <form method="get" action="https://www.google.com/search">
+    <div style="padding:4px;" role="search" class="td-head-form-search-wrap">
+      <input type="text" name="q" size="25" style="color:#808080;" maxlength="255" autocomplete="off" value="Search jksikhs.com" onfocus="if(this.value==this.defaultValue)this.value=&#39;&#39;; this.style.color=&#39;black&#39;;" onblur="if(this.value==&#39;&#39;)this.value=this.defaultValue; " />
+        <input class="wpb_button wpb_btn-inverse btn" type="submit" value="Go!" />
+        <input type="hidden" name="sitesearch" value="jksikhs.com" />
+      </div>
+    </form>
+</li>
+
+                                                                
+															</ul></div></div>
+									</div>
+									<div class="col-lg-10 col-md-9 col-12">
+										<div class="menu-area">
+											<!-- Main Menu -->
+											<nav class="navbar navbar-expand-lg">
+												<div class="navbar-collapse">
+													<div class="nav-inner">
+														<div class="menu-home-menu-container">
+															<!-- Navigation -->
+															<ul id="nav" class="nav main-menu menu navbar-nav">
+																
+                                                                    
+
+
+    <li class="nav-item ">
+        <a
+            class="nav-link"
+            
+                href="/en/komal-library/"
+            
+            >
+            Komal Library
+        </a>
+        
+    </li>
+
+    <li class="nav-item ">
+        <a
+            class="nav-link"
+            
+                href="/en/jammu-kashmir-sikh-history/"
+            
+            >
+            History and Culture
+        </a>
+        
+    </li>
+
+    <li class="nav-item dropdown icon-dropdown">
+        <a
+            class="nav-link dropdown-toggle"
+            
+                data-toggle="dropdown"
+                id="dropdown-gurdwaras"
+                href="/en/gurdwaras/"
+            
+            >
+            Gurdwaras
+        </a>
+        
+            <ul class="sub-menu" aria-labelledby="dropdown-gurdwaras">
+                
+    
+        <li>
+            <a href="/en/gurdwaras/gurdwaras-in-kashmir/">
+                Gurdwaras in Kashmir
+            </a>
+        </li>
+    
+        <li>
+            <a href="/en/gurdwaras/gurdwaras-in-jammu/">
+                Gurdwaras in Jammu
+            </a>
+        </li>
+    
+
+
+            </ul>
+        
+    </li>
+
+    <li class="nav-item ">
+        <a
+            class="nav-link"
+            
+                href="/en/editorials/"
+            
+            >
+            Editorials
+        </a>
+        
+    </li>
+
+    <li class="nav-item ">
+        <a
+            class="nav-link"
+            
+                href="/en/article-submissions/"
+            
+            >
+            Content Submission
+        </a>
+        
+    </li>
+
+<li class="nav-item">
+  <form method="get" action="https://www.google.com/search">
+    <div style="padding:4px;" role="search" class="td-head-form-search-wrap">
+      <input id="td-header-search" type="text" name="q" size="25" style="color:#808080;"
+        maxlength="255" autocomplete="off" value="Search jksikhs.com"
+        onfocus="if(this.value==this.defaultValue)this.value=''; this.style.color='black';" onblur="if(this.value=='')this.value=this.defaultValue; "/>
+        <input class="wpb_button wpb_btn-inverse btn" type="submit" id="td-header-search-top" value="Go!" />
+        <input type="hidden" name="sitesearch" value="jksikhs.com" />
+      </div>
+    </form>
+</li>
+
+                                                                
+															</ul>
+															<!--/ End Navigation -->
+														</div>
+													</div>
+												</div>
+
+											</nav>
+
+											<!--/ End Main Menu -->
+											<!-- <div class="right-bar">
+												<ul class="right-nav">
+													
+
+
+
+
+ 
+     
+ 
+     
+ 
+
+												</ul>
+											</div> -->
+
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<!--/ End Middle Header -->
+		</header>
+		<!--/ End Header -->
+
+        <div class="main-container">
+            
+    <div class="breadcrumbs">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <div class="bread-inner">
+                        <div class="bread-title">
+                            
+                                <h3>Gurdwara Shaheed Bunga Sahib (Srinagar)</h3>
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+            
+  <div>
+    
+
+<div class="container">
+    
+        
+    
+        
+
+<div class="card">
+    
+        
+
+<div class="card-body">
+    
+        
+
+
+
+
+
+    <figure>
+
+
+
+
+<img src="https://cmsjksikhscom-live-98782734a0b2440a8f30-4d40d1e.divio-media.net/filer_public_thumbnails/filer_public/45/08/450809d8-cbfc-49cb-a744-ac184406cb18/shaheedbunga_srinagar_1.jpg__1024x683_q90_subsampling-2.jpg"
+    alt=""
+    
+    
+    
+        srcset="
+            
+                https://cmsjksikhscom-live-98782734a0b2440a8f30-4d40d1e.divio-media.net/filer_public_thumbnails/filer_public/45/08/450809d8-cbfc-49cb-a744-ac184406cb18/shaheedbunga_srinagar_1.jpg__576x576_q90_subsampling-2.jpg 576w,
+            
+                https://cmsjksikhscom-live-98782734a0b2440a8f30-4d40d1e.divio-media.net/filer_public_thumbnails/filer_public/45/08/450809d8-cbfc-49cb-a744-ac184406cb18/shaheedbunga_srinagar_1.jpg__768x768_q90_subsampling-2.jpg 768w,
+            
+                https://cmsjksikhscom-live-98782734a0b2440a8f30-4d40d1e.divio-media.net/filer_public_thumbnails/filer_public/45/08/450809d8-cbfc-49cb-a744-ac184406cb18/shaheedbunga_srinagar_1.jpg__992x992_q90_subsampling-2.jpg 992w,
+            
+            https://cmsjksikhscom-live-98782734a0b2440a8f30-4d40d1e.divio-media.net/filer_public_thumbnails/filer_public/45/08/450809d8-cbfc-49cb-a744-ac184406cb18/shaheedbunga_srinagar_1.jpg__1024x683_q90_subsampling-2.jpg 1024w
+        "
+        sizes="
+            
+                (max-width: 576px) 576px,
+            
+                (max-width: 768px) 768px,
+            
+                (max-width: 992px) 992px,
+            
+            1024px
+        "
+    
+    class="align-center img-fluid rounded"
+>
+
+
+
+        <figcaption>Gurdwara Shaheed Bunga Sahib, Bhagat (Burzulla), Srinagar</figcaption>
+    </figure>
+
+
+
+
+
+
+
+    
+</div>
+
+    
+</div>
+
+    
+        
+
+<div class="m-3">
+    
+</div>
+
+    
+        
+
+<div class="card">
+    
+        
+
+<div class="card-body">
+    
+        <p>The Gurdwara is located in Baghat locality of Srinagar, Kashmir at a distance of 6 km  from Tourist Reception centre</p>
+
+<p>This Gurdwara was constructed in the memory of Sikh Soldiers of Maharaja Ranjit Singh during the Sikh rule in Kashmir</p>
+    
+</div>
+
+    
+</div>
+
+    
+        
+
+<div class="m-3">
+    
+</div>
+
+    
+        
+
+<div class="card">
+    
+        
+
+<div class="card-body">
+    
+        
+
+<div class="row justify-content-around">
+    
+        
+
+<div class="col">
+    
+        <!--@ inlined-iframe <iframe width="1100" height="500" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=74.79753434658052%2C34.039884836148865%2C74.80649292469026%2C34.04384987509827&amp;layer=mapnik&amp;marker=34.041867378795054%2C74.80201363563538" style="border: 1px solid black"> @-->
+<DIV>
+    
+    
+    
+    
+  
+  
+    <div id="map" class="leaflet-container leaflet-touch leaflet-retina leaflet-fade-anim leaflet-grab leaflet-touch-drag leaflet-touch-zoom" tabindex="0" style="position: relative;"><div class="leaflet-pane leaflet-map-pane" style="transform: translate3d(0px, 0px, 0px);"><div class="leaflet-pane leaflet-tile-pane"><div class="leaflet-layer " style="z-index: 1; opacity: 1;"><div class="leaflet-tile-container leaflet-zoom-animated" style="z-index: 19; transform: translate3d(0px, 0px, 0px) scale(1);"><img alt="" src="https://tile.openstreetmap.org/14/11596/6542.png" class="leaflet-tile" style="width: 256px; height: 256px; transform: translate3d(-6px, 97px, 0px); opacity: 1;" /><img alt="" src="https://tile.openstreetmap.org/14/11596/6541.png" class="leaflet-tile" style="width: 256px; height: 256px; transform: translate3d(-6px, -159px, 0px); opacity: 1;" /><img alt="" src="https://tile.openstreetmap.org/14/11596/6543.png" class="leaflet-tile" style="width: 256px; height: 256px; transform: translate3d(-6px, 353px, 0px); opacity: 1;" /></div></div></div><div class="leaflet-pane leaflet-overlay-pane"></div><div class="leaflet-pane leaflet-shadow-pane"><img src="https://www.openstreetmap.org/assets/leaflet/dist/images/marker-shadow-a2d94406ba198f61f68a71ed8f9f9c701122c0c33b775d990edceae4aece567f.png" class="leaflet-marker-shadow leaflet-zoom-animated" alt="" style="margin-left: -12px; margin-top: -41px; width: 41px; height: 41px; transform: translate3d(77px, 249px, 0px);" /></div><div class="leaflet-pane leaflet-marker-pane"><img src="https://www.openstreetmap.org/assets/leaflet/dist/images/marker-icon-3d253116ec4ba0e1f22a01cdf1ff7f120fa4d89a6cd0933d68f12951d19809b4.png" class="leaflet-marker-icon leaflet-zoom-animated leaflet-interactive" alt="Marker" tabindex="0" role="button" style="margin-left: -12px; margin-top: -41px; width: 25px; height: 41px; transform: translate3d(77px, 249px, 0px); z-index: 249;" /></div><div class="leaflet-pane leaflet-tooltip-pane"></div><div class="leaflet-pane leaflet-popup-pane"></div><div class="leaflet-proxy leaflet-zoom-animated" style="transform: translate3d(2.96866e+06px, 1.6749e+06px, 0px) scale(8192);"></div></div><div class="leaflet-control-container"><div class="leaflet-top leaflet-left"><div class="leaflet-control-zoom leaflet-bar leaflet-control"><a class="leaflet-control-zoom-in" href="#" title="Zoom in" role="button" aria-label="Zoom in" aria-disabled="false"><span aria-hidden="true">+</span></a><a class="leaflet-control-zoom-out" href="#" title="Zoom out" role="button" aria-label="Zoom out" aria-disabled="false"><span aria-hidden="true">−</span></a></div></div><div class="leaflet-top leaflet-right"></div><div class="leaflet-bottom leaflet-left"></div><div class="leaflet-bottom leaflet-right"><div class="leaflet-control-attribution leaflet-control"><a href="https://www.openstreetmap.org/fixthemap?lat=34.041867378795054&amp;lon=74.80201363563539&amp;zoom=14" target="_blank">Report a problem</a> <span aria-hidden="true">|</span> © <a href="https://www.openstreetmap.org/copyright" target="_blank">OpenStreetMap</a> contributors</div></div></div></div>
+  
+
+</DIV>
+<!--@ end-inlined-iframe @--><br/><small><a href="https://www.openstreetmap.org/?mlat=34.04187&amp;mlon=74.80201#map=18/34.04187/74.80201">View Larger Map</a></small>
+
+    
+</div>
+
+    
+        
+
+<div class="col">
+    
+        
+
+<div class="carousel slide"
+    id="carousel-4773"
+    data-interval="5000"
+    data-keyboard="true"
+    data-pause="hover"
+    data-ride="carousel"
+    data-wrap="true"
+>
+    
+        <ol class="carousel-indicators">
+            
+                <li data-target="#carousel-4773" data-slide-to="0" class="">
+                </li>
+            
+                <li data-target="#carousel-4773" data-slide-to="1" class="active">
+                </li>
+            
+                <li data-target="#carousel-4773"
+                    data-slide-to="2"
+                    >
+                </li>
+            
+        </ol>
+    
+
+    
+        <div class="carousel-inner">
+            
+                
+
+<div class="carousel-item active carousel-item-left">
+    
+
+    
+        
+
+
+
+<img class="d-block w-100" src="https://cmsjksikhscom-live-98782734a0b2440a8f30-4d40d1e.divio-media.net/filer_public_thumbnails/filer_public/ff/39/ff395efa-d47a-4735-a269-587e41209d61/photo_19-04-2020_13_11_40.jpg__1024.0x768.0_q90_crop-10_subsampling-2_upscale.jpg" alt="" >
+
+    
+
+    
+
+    <div class="carousel-caption d-none d-md-block">
+        
+        
+
+        
+    </div>
+</div>
+
+            
+                
+
+<div class="carousel-item carousel-item-next carousel-item-left">
+    
+
+    
+        
+
+
+
+<img class="d-block w-100" src="https://cmsjksikhscom-live-98782734a0b2440a8f30-4d40d1e.divio-media.net/filer_public_thumbnails/filer_public/c8/91/c891bcb9-17fb-4a8b-9090-34a222b10e09/photo_19-04-2020_13_11_46_1.jpg__1024.0x768.0_q90_crop-10_subsampling-2_upscale.jpg" alt="" >
+
+    
+
+    
+
+    <div class="carousel-caption d-none d-md-block">
+        
+        
+
+        
+    </div>
+</div>
+
+            
+                
+
+<div class="carousel-item">
+    
+
+    
+        
+
+
+
+<img class="d-block w-100" src="https://cmsjksikhscom-live-98782734a0b2440a8f30-4d40d1e.divio-media.net/filer_public_thumbnails/filer_public/6b/44/6b446f24-2924-4f7a-9b0c-f803605bd9c0/photo_19-04-2020_13_11_39_1.jpg__1024.0x768.0_q90_crop-10_subsampling-2_upscale.jpg" alt="" >
+
+    
+
+    
+
+    <div class="carousel-caption d-none d-md-block">
+        
+        
+
+        
+    </div>
+</div>
+
+            
+        </div>
+    
+
+    
+        <a class="carousel-control-prev" href="#carousel-4773" role="button" data-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+        </a>
+        <a class="carousel-control-next" href="#carousel-4773" role="button" data-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+        </a>
+    
+</div>
+
+    
+</div>
+
+    
+</div>
+
+    
+</div>
+
+    
+</div>
+
+    
+</div>
+
+  </div>
+  <div>
+    
+  </div>
+  <div>
+    
+  </div>
+
+        </div>
+
+        <!-- Footer -->
+        <footer class="footer">
+            <div class="copyright">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-12">
+                            <div class="copyright-content">
+                                <p>© Copyright JK Sikhs Team</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </footer>
+
+
+		<!-- Jquery JS -->
+        <script src="../../../../static/jks/js/jquery.min.js"></script>
+        <script src="../../../../static/jks/js/jquery-migrate-3.0.0.js"></script>
+
+		<!-- social media share -->
+        <script type="text/javascript" src="../../../../static/js/jquery.floating-social-share.min.js"></script>
+        <script>
+          $("body").floatingSocialShare({
+            buttons: [
+              "facebook", "pinterest", "reddit", "twitter", "whatsapp"
+            ],
+            text: "share with: ",
+            url: ""
+          });
+        </script>
+
+
+		<!-- Popper JS -->
+		<script src="../../../../static/jks/js/popper.min.js"></script>
+		<!-- Bootstrap JS -->
+		<script src="../../../../static/jks/js/bootstrap.min.js"></script>
+		<!-- Modernizr JS -->
+		<script src="../../../../static/jks/js/modernizr.min.js"></script>
+		<!-- ScrollUp JS -->
+		<script src="../../../../static/jks/js/scrollup.js"></script>
+		<!-- FacnyBox JS -->
+		<script src="../../../../static/jks/js/jquery-fancybox.min.js"></script>
+		<!-- Cube Portfolio JS -->
+		<script src="../../../../static/jks/js/cubeportfolio.min.js"></script>
+		<!-- Slick Nav JS -->
+		<script src="../../../../static/jks/js/slicknav.min.js"></script>
+		<!-- Slick Nav JS -->
+		<script src="../../../../static/jks/js/slicknav.min.js"></script>
+		<!-- Slick Slider JS -->
+		<script src="../../../../static/jks/js/owl-carousel.min.js"></script>
+		<!-- Easing JS -->
+		<script src="../../../../static/jks/js/easing.js"></script>
+		<!-- Magnipic Popup JS -->
+		<script src="../../../../static/jks/js/magnific-popup.min.js"></script>
+    	<!-- Counterup JS -->
+    	<script src="../../../../static/jks/js/jquery.counterup.min.js"></script>
+		<!-- Active JS -->
+    	<script src="../../../../static/jks/js/active.js"></script>
+
+        
+
+	
+
+</div><div id="floatingSocialShare"><div class="top-left" style="margin-left: 0px;"><a title="share with: facebook" class="facebook pop-upper without-counter" href="https://www.facebook.com/sharer/sharer.php?u=&amp;t=Gurdwara%20Shaheed%20Bunga%20Sahib%20(Srinagar)" target="_blank" rel="noopener noreferrer" style="width: 20%;"><svg aria-label="Facebook" role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M22.676 0H1.324C.593 0 0 .593 0 1.324v21.352C0 23.408.593 24 1.324 24h11.494v-9.294H9.689v-3.621h3.129V8.41c0-3.099 1.894-4.785 4.659-4.785 1.325 0 2.464.097 2.796.141v3.24h-1.921c-1.5 0-1.792.721-1.792 1.771v2.311h3.584l-.465 3.63H16.56V24h6.115c.733 0 1.325-.592 1.325-1.324V1.324C24 .593 23.408 0 22.676 0"></path></svg></a><a title="share with: pinterest" class="pinterest pop-upper without-counter" href="https://www.pinterest.com/pin/create/button/?url=&amp;description=&amp;media=" target="_blank" rel="noopener noreferrer" style="width: 20%;"><svg aria-label="Pinterest" role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M12.017 0C5.396 0 .029 5.367.029 11.987c0 5.079 3.158 9.417 7.618 11.162-.105-.949-.199-2.403.041-3.439.219-.937 1.406-5.957 1.406-5.957s-.359-.72-.359-1.781c0-1.663.967-2.911 2.168-2.911 1.024 0 1.518.769 1.518 1.688 0 1.029-.653 2.567-.992 3.992-.285 1.193.6 2.165 1.775 2.165 2.128 0 3.768-2.245 3.768-5.487 0-2.861-2.063-4.869-5.008-4.869-3.41 0-5.409 2.562-5.409 5.199 0 1.033.394 2.143.889 2.741.099.12.112.225.085.345-.09.375-.293 1.199-.334 1.363-.053.225-.172.271-.401.165-1.495-.69-2.433-2.878-2.433-4.646 0-3.776 2.748-7.252 7.92-7.252 4.158 0 7.392 2.967 7.392 6.923 0 4.135-2.607 7.462-6.233 7.462-1.214 0-2.354-.629-2.758-1.379l-.749 2.848c-.269 1.045-1.004 2.352-1.498 3.146 1.123.345 2.306.535 3.55.535 6.607 0 11.985-5.365 11.985-11.987C23.97 5.39 18.592.026 11.985.026L12.017 0z"></path></svg></a><a title="share with: reddit" class="reddit pop-upper without-counter" href="https://www.reddit.com/submit?url=&amp;title=Gurdwara%20Shaheed%20Bunga%20Sahib%20(Srinagar)" target="_blank" rel="noopener noreferrer" style="width: 20%;"><svg aria-label="Reddit" role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M2.204 14.049c-.06.276-.091.56-.091.847 0 3.443 4.402 6.249 9.814 6.249 5.41 0 9.812-2.804 9.812-6.249 0-.274-.029-.546-.082-.809l-.015-.032c-.021-.055-.029-.11-.029-.165-.302-1.175-1.117-2.241-2.296-3.103-.045-.016-.088-.039-.126-.07-.026-.02-.045-.042-.067-.064-1.792-1.234-4.356-2.008-7.196-2.008-2.815 0-5.354.759-7.146 1.971-.014.018-.029.033-.049.049-.039.033-.084.06-.13.075-1.206.862-2.042 1.937-2.354 3.123 0 .058-.014.114-.037.171l-.008.015zm9.773 5.441c-1.794 0-3.057-.389-3.863-1.197-.173-.174-.173-.457 0-.632.176-.165.46-.165.635 0 .63.629 1.685.943 3.228.943 1.542 0 2.591-.3 3.219-.929.165-.164.45-.164.629 0 .165.18.165.465 0 .645-.809.808-2.065 1.198-3.862 1.198l.014-.028zm-3.606-7.573c-.914 0-1.677.765-1.677 1.677 0 .91.763 1.65 1.677 1.65s1.651-.74 1.651-1.65c0-.912-.739-1.677-1.651-1.677zm7.233 0c-.914 0-1.678.765-1.678 1.677 0 .91.764 1.65 1.678 1.65s1.651-.74 1.651-1.65c0-.912-.739-1.677-1.651-1.677zm4.548-1.595c1.037.833 1.8 1.821 2.189 2.904.45-.336.719-.864.719-1.449 0-1.002-.815-1.816-1.818-1.816-.399 0-.778.129-1.09.363v-.002zM2.711 9.963c-1.003 0-1.817.816-1.817 1.818 0 .543.239 1.048.644 1.389.401-1.079 1.172-2.053 2.213-2.876-.302-.21-.663-.329-1.039-.329v-.002zm9.217 12.079c-5.906 0-10.709-3.205-10.709-7.142 0-.275.023-.544.068-.809C.494 13.598 0 12.729 0 11.777c0-1.496 1.227-2.713 2.725-2.713.674 0 1.303.246 1.797.682 1.856-1.191 4.357-1.941 7.112-1.992l1.812-5.524.404.095s.016 0 .016.002l4.223.993c.344-.798 1.138-1.36 2.065-1.36 1.229 0 2.231 1.004 2.231 2.234 0 1.232-1.003 2.234-2.231 2.234s-2.23-1.004-2.23-2.23l-3.851-.912-1.467 4.477c2.65.105 5.047.854 6.844 2.021.494-.464 1.144-.719 1.833-.719 1.498 0 2.718 1.213 2.718 2.711 0 .987-.54 1.886-1.378 2.365.029.255.059.494.059.749-.015 3.938-4.806 7.143-10.72 7.143l-.034.009zm8.179-19.187c-.74 0-1.34.599-1.34 1.338 0 .738.6 1.34 1.34 1.34.732 0 1.33-.6 1.33-1.334 0-.733-.598-1.332-1.347-1.332l.017-.012z"></path></svg></a><a title="share with: twitter" class="twitter pop-upper without-counter" href="https://twitter.com/intent/tweet?text=Gurdwara%20Shaheed%20Bunga%20Sahib%20(Srinagar)%20" target="_blank" rel="noopener noreferrer" style="width: 20%;"><svg aria-label="Twitter" role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M23.954 4.569c-.885.389-1.83.654-2.825.775 1.014-.611 1.794-1.574 2.163-2.723-.951.555-2.005.959-3.127 1.184-.896-.959-2.173-1.559-3.591-1.559-2.717 0-4.92 2.203-4.92 4.917 0 .39.045.765.127 1.124C7.691 8.094 4.066 6.13 1.64 3.161c-.427.722-.666 1.561-.666 2.475 0 1.71.87 3.213 2.188 4.096-.807-.026-1.566-.248-2.228-.616v.061c0 2.385 1.693 4.374 3.946 4.827-.413.111-.849.171-1.296.171-.314 0-.615-.03-.916-.086.631 1.953 2.445 3.377 4.604 3.417-1.68 1.319-3.809 2.105-6.102 2.105-.39 0-.779-.023-1.17-.067 2.189 1.394 4.768 2.209 7.557 2.209 9.054 0 13.999-7.496 13.999-13.986 0-.209 0-.42-.015-.63.961-.689 1.8-1.56 2.46-2.548l-.047-.02z"></path></svg></a><a title="share with: whatsapp" class="whatsapp pop-upper without-counter" href="whatsapp://send?text=Gurdwara%20Shaheed%20Bunga%20Sahib%20(Srinagar)%20" target="_blank" rel="noopener noreferrer" style="width: 20%;"><svg aria-label="WhatsApp" role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M17.498 14.382c-.301-.15-1.767-.867-2.04-.966-.273-.101-.473-.15-.673.15-.197.295-.771.964-.944 1.162-.175.195-.349.21-.646.075-.3-.15-1.263-.465-2.403-1.485-.888-.795-1.484-1.77-1.66-2.07-.174-.3-.019-.465.13-.615.136-.135.301-.345.451-.523.146-.181.194-.301.297-.496.1-.21.049-.375-.025-.524-.075-.15-.672-1.62-.922-2.206-.24-.584-.487-.51-.672-.51-.172-.015-.371-.015-.571-.015-.2 0-.523.074-.797.359-.273.3-1.045 1.02-1.045 2.475s1.07 2.865 1.219 3.075c.149.195 2.105 3.195 5.1 4.485.714.3 1.27.48 1.704.629.714.227 1.365.195 1.88.121.574-.091 1.767-.721 2.016-1.426.255-.705.255-1.29.18-1.425-.074-.135-.27-.21-.57-.345m-5.446 7.443h-.016c-1.77 0-3.524-.48-5.055-1.38l-.36-.214-3.75.975 1.005-3.645-.239-.375c-.99-1.576-1.516-3.391-1.516-5.26 0-5.445 4.455-9.885 9.942-9.885 2.654 0 5.145 1.035 7.021 2.91 1.875 1.859 2.909 4.35 2.909 6.99-.004 5.444-4.46 9.885-9.935 9.885M20.52 3.449C18.24 1.245 15.24 0 12.045 0 5.463 0 .104 5.334.101 11.893c0 2.096.549 4.14 1.595 5.945L0 24l6.335-1.652c1.746.943 3.71 1.444 5.71 1.447h.006c6.585 0 11.946-5.336 11.949-11.896 0-3.176-1.24-6.165-3.495-8.411"></path></svg></a></div></div><a id="scrollUp" href="#top" style="display: none; position: fixed; z-index: 2147483647;"><i class="fa fa-angle-up"></i></a></body></html>
